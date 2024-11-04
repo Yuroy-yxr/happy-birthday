@@ -11,7 +11,7 @@ On the birthday of a special friend, I felt like the generic happy birthday text
 I decided to publish it so that you can use it to make the special people in your life feel a bit more of what they truly are: special.
 You can create your very own happy-birthday page in a few easy steps:
 
-* Fork the repository
+* Fork the 
 * Open `customize.json` and replace the content with your own
 * Turn on GitHub pages for your repository (Settings > Pages)
 * Share the URL you get at the above step with your friend
